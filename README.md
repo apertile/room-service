@@ -14,8 +14,8 @@ The problem was solved by building an objective function to minimize so that you
    
 The API was built with Spring Boot and provides Swagger to facilitate its use. Other technologies include Maven, Java 8, JUnit and Mockito for unit tests.
 
-To test it you can clone the repository and run the app as a Spring Boot app or with Maven through 'mvn spring:run'. You can access the Swagger page at http://localhost:8080/swagger-ui.html
+To test it you can clone the repository and run the app as a Spring Boot app or with Maven through 'mvn spring:run'. You can access the Swagger page at http://localhost:8080/swagger-ui.html . Use the POST endpoint to match the contract with the given scenario
 
 # Heroku
-The application is also deployed in Heroku so that you don't have to run it locally. You can find the Swagger page at 
+The application is also deployed in Heroku so that you don't have to run it locally. You can find the Swagger page at https://rooms-optimal-allocation.herokuapp.com/swagger-ui.html . Use the POST endpoint to match the contract with the given scenario
 
